@@ -1,4 +1,4 @@
-## Olá, me chamo Vinicius e a principio estou aprendendo tanto back-end quanto front-end e banco de dados relacional, porém tenho um interesse em especial pelo back end, caso se interesse pelo meu trabalho, você pode visitar meus repositorios e ver o que estou estudando atualmente! 
+## Olá, me chamo Vinicius e estou aprendendo tanto back-end quanto front-end e banco de dados relacional, porém tenho um interesse em especial pelo back end, caso se interesse pelo meu trabalho, você pode visitar meus repositorios e ver o que estou estudando atualmente! 
 <div align="center" >
   <a href="https://github.com/ViniLemess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniLemess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
