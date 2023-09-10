@@ -1,4 +1,5 @@
-## Hi! My name is Vinicius Lemes Caetano, i am a Software Engineer currently working at Sicredi mostly with backend applications. I love studying anything related to software and computer science and i am always looking to improve myself throught programming challenges (which you can find in my repositories) and thecnical books, beign one of my favorite books the Pragmatic Programmer.
+## Hello! I'm Vinicius Lemes Caetano, a Software Engineer at Sicredi, where I specialize in backend applications. I have a deep passion for software development and computer science, constantly striving to enhance my skills. You can get a glimpse of my journey through programming challenges available in my GitHub repositories. One of my all-time favorite reads is "The Pragmatic Programmer," a book that has significantly influenced my approach to coding. Feel free to reach out if you'd like to know more about me.
+
 <div align="center" >
   <a href="https://github.com/ViniLemess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniLemess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
